@@ -38,4 +38,4 @@ Este proyecto se considera completo y finalizado. Fue desarrollado como parte de
 
 - [Mapa de Accidentes - Enero](docs/accidentes_madrid_2024.png)
 
-![Prueba](/../Proyecto-2-ML/docs/accidentes_madrid_2024.png)
+![Prueba](https://github.com/Nahuel-nunez/Proyecto-2-ML/blob/main/docs/accidentes_madrid_2024.jpg)
