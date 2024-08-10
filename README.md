@@ -1,5 +1,5 @@
+(https://github.com/Nahuel-nunez/Proyecto-2-ML/blob/main/Portada.png)
 # Proyecto 2 (Machine Learning)
-
 ## Equipo
 - [Dafne Moreno Palomares](https://www.linkedin.com/in/dafne-moreno-palomares-86a30526b/)
 - [José Núñez Ben Alí](https://www.linkedin.com/in/jose-nunez-ben-ali/)
@@ -36,6 +36,14 @@ Este proyecto se considera completo y finalizado. Fue desarrollado como parte de
 
 ## Mapas
 
-- [Mapa de Accidentes - Enero](docs/accidentes_madrid_2024.png)
+- Mapa de Accidentes en Madrid
 
-![Prueba](https://github.com/Nahuel-nunez/Proyecto-2-ML/blob/main/docs/accidentes_madrid_2024.jpg)
+(https://github.com/Nahuel-nunez/Proyecto-2-ML/blob/main/docs/accidentes_madrid_2024.jpg)
+
+- Mapa por distritos en Madrid
+
+(https://github.com/Nahuel-nunez/Proyecto-2-ML/blob/main/docs/mapa_distritos_madrid_folium.png)
+
+- Mapa de Accidentes en Madrid
+
+(https://github.com/Nahuel-nunez/Proyecto-2-ML/blob/main/docs/mapa_top_accidentes_madrid.png)
