@@ -1,4 +1,4 @@
-!(https://github.com/Nahuel-nunez/Proyecto-2-ML/blob/main/Portada.png)
+![a](https://github.com/Nahuel-nunez/Proyecto-2-ML/blob/main/Portada.png)
 # Proyecto 2 (Machine Learning)
 ## Equipo
 - [Dafne Moreno Palomares](https://www.linkedin.com/in/dafne-moreno-palomares-86a30526b/)
