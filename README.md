@@ -33,3 +33,9 @@ Modelo de regresión para la predicción de accidentes de tráfico en la ciudad 
 ## Estado del Proyecto
 
 Este proyecto se considera completo y finalizado. Fue desarrollado como parte del bootcamp donde estuvimos estudiando y ahora está disponible para su uso y referencia. Aunque el desarrollo activo ha concluido, siempre estamos abiertos a comentarios, sugerencias o preguntas relacionadas con el proyecto. ¡Gracias por tu interés!
+
+## Mapas
+
+- [Mapa de Accidentes - Enero](docs/accidentes_madrid_2024.png)
+
+![Prueba](/../Proyecto-2-ML/docs/accidentes_madrid_2024.png)
