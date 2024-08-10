@@ -38,12 +38,12 @@ Este proyecto se considera completo y finalizado. Fue desarrollado como parte de
 
 - Mapa de Accidentes en Madrid
 
-[-](https://github.com/Nahuel-nunez/Proyecto-2-ML/blob/main/docs/accidentes_madrid_2024.jpg)
+![-](https://github.com/Nahuel-nunez/Proyecto-2-ML/blob/main/docs/accidentes_madrid_2024.jpg)
 
 - Mapa por distritos en Madrid
 
-[-](https://github.com/Nahuel-nunez/Proyecto-2-ML/blob/main/docs/mapa_distritos_madrid_folium.png)
+![-](https://github.com/Nahuel-nunez/Proyecto-2-ML/blob/main/docs/mapa_distritos_madrid_folium.png)
 
-- Mapa de Accidentes en Madrid
+- Mapa de accidentes recurrentes en Madrid
 
-[-](https://github.com/Nahuel-nunez/Proyecto-2-ML/blob/main/docs/mapa_top_accidentes_madrid.png)
+![-](https://github.com/Nahuel-nunez/Proyecto-2-ML/blob/main/docs/mapa_top_accidentes_madrid.png)
